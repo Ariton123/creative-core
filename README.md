@@ -31,4 +31,5 @@ The long-term goal is to create a space where members can share ideas, build pro
 
 This repository will be used to document the association’s public materials, ideas, plans, and future community resources.
 
-Status: Legally opened on 12.05.2026. Currently in the project planning phase.
+Status: Legally opened on 12.05.2026. 
+Currently in the project planning phase, organizing the meetups and game gems for this year.
