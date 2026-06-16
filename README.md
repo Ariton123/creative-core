@@ -30,3 +30,5 @@ The long-term goal is to create a space where members can share ideas, build pro
 ## Status
 
 This repository will be used to document the association’s public materials, ideas, plans, and future community resources.
+
+Status: Legally opened.
